@@ -1,3 +1,7 @@
-# Chatbot done through codecademy course
+# Coffee Shop Chatbot Mini project :coffee: 🤖
 
-This chatbot references a menu and asks questions based on the menu
+- This chatbot prints a welcome message
+
+- Asks the customer for size of coffee
+
+- Asks for type of coffee
